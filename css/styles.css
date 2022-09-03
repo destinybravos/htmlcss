@@ -5,4 +5,10 @@
 
 #menu{
     background-color: tomato;
+    padding: 6px;
+}
+#menu > a{
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px;
 }
