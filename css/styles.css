@@ -12,3 +12,13 @@
     text-decoration: none;
     padding: 10px;
 }
+
+#box{
+    height: 200px;
+    width: 200px;
+    margin-left: 20px;
+    /* border-width: 10px;
+    border-style: dotted; 
+    border-color: red; */
+    border:2px solid red; /* This is the shothand version of the comment code above */
+}
