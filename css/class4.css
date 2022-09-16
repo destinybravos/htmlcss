@@ -1,0 +1,41 @@
+*, body, html{
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styles */
+header{
+    background-color: tomato;
+    color: white;
+}
+
+header h2{
+    max-width: 1200px;
+    margin: auto;
+    padding: 5px 10px;
+}
+
+/* Nav/Menu Styles */
+nav{
+    background-color: rgb(41, 40, 40);
+    color: white;
+}
+nav ul{
+    max-width: 1200px;
+    margin: auto;
+    padding: 5px 10px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    padding: 5px 15px;
+    display: inline-block;
+    border-radius: 5px;
+}
+nav a:hover{
+    background-color: tomato;
+}
+nav li{
+    list-style-type: none;
+    display: inline-block;
+}
