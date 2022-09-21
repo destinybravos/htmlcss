@@ -27,3 +27,8 @@ header{
     text-decoration: none;
     padding: 8px 15px;
 }
+
+#banner{
+    min-height: 500px;
+    background-color: teal;
+}
